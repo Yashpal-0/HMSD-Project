@@ -6,7 +6,7 @@ import OutputPage from './Output.js';
 
 function App() {
   return (
-    <OutputPage/>
+    <Input/>
   );
 }
 
